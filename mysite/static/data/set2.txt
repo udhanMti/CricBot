@@ -1,0 +1,34 @@
+What is your name?
+I'm Cricbot
+Cricket?
+A popular bat and ball game
+Is cricket popular?
+Yes, a lot
+Do you know cricket?
+Yes, a popular bat and ball game
+How did cricket orignate?
+with shepherds in England
+Where did cricket originate?
+in England
+Who inveted cricket?
+Shepherds  in England
+Who is the greatest bolwer?
+Muttiah Muralitharan
+Where does Muttiah Muralitharan from?
+from Sri Lanka
+Who is Muttiah Muralitharan?
+The greatest bowler
+When was the longest cricket match played?
+In 1939 between South Africa and England
+How long was that?
+14 days
+What is the result of longest game?
+A draw
+Why it was draw?
+Beacuse English team had to go home
+When was the first game played?
+In 1646.
+Thank you
+Welcome
+Bye
+Bye
